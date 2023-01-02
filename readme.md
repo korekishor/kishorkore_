@@ -10,7 +10,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src=" ">🌱</g-emoji> I’m currently learning <strong>Django</strong>, <strong>DSA</strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://github.com/korekishor">https://github.com/kishorkore_/</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available at <a href="https://github.com/korekishor?tab=repositories>https://github.com/korekishor</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:kishorkore1999@gmail.com">kishorkore1999@gmail.com</a></strong></p>
